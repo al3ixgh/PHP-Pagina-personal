@@ -24,6 +24,7 @@ h1{
 }
 
 .portfolio{
+    padding-top: 4em;
     height: 100vh;
     background-color: rgb(40, 37, 185); 
 }
